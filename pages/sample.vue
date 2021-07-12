@@ -1,9 +1,9 @@
 <template>
   <section>
-    <h1>Home Page</h1>
+    <h1>Sample Page</h1>
     <ul>
-      <li>▶<NuxtLink to="/">Home page</NuxtLink></li>
-      <li>▷<NuxtLink to="/sample">Sample page</NuxtLink></li>
+      <li>▷<NuxtLink to="/">Home page</NuxtLink></li>
+      <li>▶<NuxtLink to="/sample">Sample page</NuxtLink></li>
     </ul>
   </section>
 </template>
